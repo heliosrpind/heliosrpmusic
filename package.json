@@ -1,12 +1,12 @@
 {
-  "name": "intro",
+  "name": "Helios Symphony",
   "version": "1.0.0",
-  "description": "",
+  "description": "Official MusicBot of Helios Roleplay",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "LiGhT#0018",
   "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^0.15.0",
